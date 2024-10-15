@@ -1,1 +1,1 @@
-registry.k8s.io/nfs-subdir-provisioner/nfs-subdir-provisioner:v4.0.2
+gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
