@@ -1,1 +1,1 @@
-registry.inspurcloud.cn/devops-cicd/postgres:v1
+gitlab/gitlab-ce:latest
